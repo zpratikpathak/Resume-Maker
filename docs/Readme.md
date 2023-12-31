@@ -29,3 +29,4 @@ Use command
 xelatex Resume.tex
 ```
 
+Note: Inspired from Deedy-Resume
