@@ -1,1 +1,3 @@
+Run this command to compile and generate the PDF file:
+
 xelatex Resume.tex

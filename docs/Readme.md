@@ -1,3 +1,5 @@
+![Alt text](image.png)
+
 ## Requirements
 - Linux (Ubuntu Preferred)
 - Fonts - Navigate to fonts folder and install the required fonts, `Lato` For Linux/Windows and `Raleway` for MacOS
@@ -17,8 +19,7 @@ sudo apt-get install texlive-xetex
 
 
 ### Note:
-+ You can add remove 
-+ If you still get error go to https://g.co/allowaccess and autheticate yourself then try again
++ You can add remove field in Resume.tex file
 
 
 ## How to run?
